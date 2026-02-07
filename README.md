@@ -1,2 +1,4 @@
 # gitws3
-exercises
+excercises
+
+Jayden Mendez
